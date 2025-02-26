@@ -27,7 +27,7 @@
 ## Entre em contato 📫
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5532988266471)
-![Gmail](https://img.shields.io/badge/-rafaela.vieira.barezi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rafaela.vieira.barezi@gmail.com)
+[![Gmail](https://img.shields.io/badge/-rafaela.vieira.barezi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaela.vieira.barezi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-barezi/)
 [![Vercel](https://img.shields.io/badge/Vercel-58CC02?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/rafaela-barezis-projects)
   
