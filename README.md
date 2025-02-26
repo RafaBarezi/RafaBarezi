@@ -1,16 +1,11 @@
 
 ### Oi, pode me chamar de Rafa! 
 
-📚 Eterna estudante, apaixonada por tecnologia, criatividade e inovação, pelo seu potencial de transformar o mundo.
+📚 Sou uma eterna estudante apaixonada por tecnologia, criatividade e inovação.
 
 - Graduada em **Administração** e **Análise e Desenvolvimento de Sistemas** pela Estácio;
 - Pós-graduada em **Marketing Digital** pela IFAM / Unimais;
 - Cursando **Cibersegurança** na RNP / Hackers do Bem.
-
-Minha cidade é ótima: moro em Juiz de fora (MG). Então sou defensora do home office.
-
-- Fã de artesanatos, séries misteriosas e livros de ficção.
-- Definitivamente, a louca dos pets, então, vai ter imagem de cãozinhos nos projetos 🐾
 
 ### Linguagens de programação 💻
 
